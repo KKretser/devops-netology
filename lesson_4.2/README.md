@@ -208,6 +208,7 @@ google.com 64.233.165.113
 Checking rbc.ru...
 rbc.ru 178.248.236.77
 
+#Добавил в файл fakehosts чтобы проверить обработку ошибок
 kirill@ubuntu1:~/repos/devops-netology/lesson_4.2$ cat ./hostlist.txt
 mail.google.com 64.233.162.17
 drive.google.com 173.194.222.194
